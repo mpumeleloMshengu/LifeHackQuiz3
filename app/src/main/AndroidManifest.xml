@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lifehackquiz">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LifeHackQuiz">
+
+        <activity
+            android:name=".ReviewActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".ScoreActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".QuizActivity"
+            android:exported="false" />
+
+        <!-- ✅ CLOSE MainActivity PROPERLY -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- ✅ Thank You screen declared AFTER -->
+        <activity
+            android:name=".ThankYouActivity"
+            android:exported="false" />
+
+    </application>
+
+
+</manifest>
