@@ -36,3 +36,5 @@ The purpose of this application is to:
 
 ### GitHub Actions Build
 ![GitHub Actions Build](screenshots/git_actions.png)
+## 🎥 Demo Video
+https://youtu.be/WO6GXoC1zXk
