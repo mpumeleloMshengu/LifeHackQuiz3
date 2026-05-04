@@ -26,13 +26,13 @@ The purpose of this application is to:
 ## 📸 Screenshots
 
 ### Welcome Screen
-screenshots/welcome_screen.png
+![Welcome Screen](screenshots/welcome_screen.png)
 
 ### Quiz Screen
-screenshots/quiz_screen.png
+![Quiz Screen](screenshots/quiz_screen.png)
 
 ### Thank You Screen
-screenshots/thank_you_screen.png
+![Thank You Screen](screenshots/thank_you_screen.png)
 
 ### GitHub Actions Build
-screenshots/git_actions.png
+![GitHub Actions Build](screenshots/git_actions.png)
