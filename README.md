@@ -1,58 +1,28 @@
 # Life Hack or Urban Myth – Android Quiz App
 
-## 📱 App Description
-Life Hack or Urban Myth is an Android quiz application that tests users’ ability to distinguish between real life hacks and common urban myths. The app promotes critical thinking and awareness of misleading information commonly found online.
-
-Users answer a series of True/False questions and receive a final score with feedback at the end of the quiz.
-
----
-
-## 🎯 Features
-- Welcome screen with app description
-- Multiple‑choice quiz using True / False buttons
-- Score tracking throughout the quiz
-- Final score screen with feedback
-- Thank You completion screen
-- Smooth navigation between multiple activities
-- Simple and clean user interface
+## 📱 App Overview
+Life Hack or Urban Myth is an Android quiz application that tests users’ ability to distinguish between real life hacks and common urban myths.  
+The app helps users develop critical thinking skills by challenging popular information frequently shared online.
 
 ---
 
-## 🧠 App Flow
-Welcome Screen → Quiz Screen → Score Screen → Thank You Screen → Exit
+## 🎯 Purpose of the App
+The purpose of this application is to:
+- Educate users about misinformation
+- Encourage critical thinking
+- Demonstrate Android development concepts using Kotlin
+- Showcase version control and automated builds using GitHub
 
 ---
 
-## 🔁 Programming Concepts Used
-- Kotlin programming language
-- Multiple Activities
-- Intents for navigation
-- Lists and loops to display questions
-- Conditional logic (`if / else`)
-- View interaction using buttons and text views
-- Android XML layouts
+## 🧩 Features
+- Welcome screen introducing the quiz
+- Multiple-choice quiz (Hack / Myth)
+- Immediate feedback on answers
+- Score calculation and result display
+- Final “Thank You” completion screen
+- Clean navigation between activities
 
 ---
 
-## ▶️ How to Run the App
-1. Open the project in Android Studio
-2. Allow Gradle to sync
-3. Run the app on an emulator or physical Android device
-4. Tap **Start Quiz** to begin
-
----
-
-## 🎥 Demo Video
-YouTube link (add your link here):
-
----
-
-## 👩‍💻 Developer Information
-- **Name:** Nompumelelo Tshabalala
-- **Module:** IMAD5112
-- **Institution:** Rosebank college
-
----
-
-## ✅ Notes
-This application was developed as part of an academic Android development assignment and focuses on clean navigation, user interaction, and beginner‑friendly Kotlin logic.
+## 🔁 App Flow
