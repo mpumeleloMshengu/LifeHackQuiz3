@@ -23,6 +23,16 @@ The purpose of this application is to:
 - Final “Thank You” completion screen
 - Clean navigation between activities
 
----
+## 📸 Screenshots
 
-## 🔁 App Flow
+### Welcome Screen
+screenshots/welcome_screen.png
+
+### Quiz Screen
+screenshots/quiz_screen.png
+
+### Thank You Screen
+screenshots/thank_you_screen.png
+
+### GitHub Actions Build
+screenshots/git_actions.png
